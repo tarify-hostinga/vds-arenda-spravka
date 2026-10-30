@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tarify-hostinga.github.io/vds-arenda-spravka/sitemap.xml
